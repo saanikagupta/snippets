@@ -1,0 +1,22 @@
+#include<stdio.h>
+int main()
+{ 
+    int t,num;
+    scanf("%d",&t);
+    while(t--)
+    {
+    long int p1,p2,k,sum;
+    scanf("%ld ",&p1);
+      scanf("%ld",&p2);
+        scanf("%ld",&k);
+    sum= p1 + p2;
+    num = sum/k;
+
+    if(num%2==0)
+    printf("CHEF \n");
+    else
+    printf("COOK \n");
+    }  
+return 0;
+}
+
