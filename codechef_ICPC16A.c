@@ -10,6 +10,6 @@ for i in range(t):
 	elif y1==y2 and x2<x1:
 		print("left")
 	else:
-		print("sad")
+		print("sadd")
 		
-    #Contributed by Ankush Jain
+    #Contributed by Avani Gupta
