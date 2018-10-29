@@ -42,4 +42,4 @@ for i in range(t):
     if(x!=1 or y!=1):
         print("NO")
     
-    
+    #contributed by K Meenakshi
